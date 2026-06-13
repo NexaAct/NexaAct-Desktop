@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1355" height="819" viewBox="0 0 1355 819" fill="none">
+  <style>
+    text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24262b; }
+    .muted { fill: #5f6670; }
+    .soft { fill: #f3f4f6; }
+    .panel { fill: #f7f8fa; }
+    .selected { fill: #e6e8eb; }
+    .line { stroke: #d9dde3; }
+    .card { fill: #ffffff; stroke: #d7dce3; }
+    .item { fill: #edf0f4; stroke: #596373; }
+    .button { fill: #ffffff; stroke: #d7dce3; }
+    .tiny { font-size: 12px; }
+    .small { font-size: 14px; }
+    .body { font-size: 16px; }
+    .title { font-size: 24px; font-weight: 750; }
+    .model { font-size: 18px; font-weight: 750; }
+    .label { font-size: 13px; font-weight: 700; fill: #68707a; }
+  </style>
+
+  <rect width="1355" height="819" rx="8" fill="#fff"/>
+
+  <rect x="0" y="0" width="315" height="819" fill="#f5f6f8"/>
+  <line x1="315" y1="0" x2="315" y2="819" class="line"/>
+  <g transform="translate(22 31)">
+    <text class="body" x="26" y="10">New chat</text>
+    <text class="body" x="26" y="50">Search</text>
+    <text class="body" x="26" y="90">Services</text>
+    <text class="body" x="0" y="10">⊞</text>
+    <text class="body" x="0" y="50">⌕</text>
+    <text class="body" x="0" y="90">⚭</text>
+
+    <text class="label" x="-9" y="144">Projects</text>
+    <text class="small muted" x="-4" y="178">›</text>
+    <text class="small muted" x="14" y="178">□ NexaAct Web</text>
+    <text class="small muted" x="193" y="178">⚯  3</text>
+    <text class="small muted" x="-4" y="220">›</text>
+    <text class="small muted" x="14" y="220">□ NexaB</text>
+    <text class="small muted" x="193" y="220">⚯  1</text>
+    <text class="small muted" x="-4" y="262">›</text>
+    <text class="small muted" x="14" y="262">□ website</text>
+    <text class="small muted" x="193" y="262">⚯  3</text>
+    <text class="small muted" x="-4" y="304">›</text>
+    <text class="small muted" x="14" y="304">□ api</text>
+    <text class="small muted" x="211" y="304">1</text>
+    <text class="small muted" x="-4" y="346">›</text>
+    <text class="small muted" x="14" y="346">□ Nexaact</text>
+    <text class="small muted" x="211" y="346">5</text>
+    <text class="small muted" x="-4" y="388">›</text>
+    <text class="small muted" x="14" y="388">□ testweb</text>
+    <text class="small muted" x="211" y="388">1</text>
+    <text class="small muted" x="-4" y="430">›</text>
+    <text class="small muted" x="14" y="430">□ Uncategorized</text>
+    <text class="small muted" x="211" y="430">8</text>
+
+    <rect x="-8" y="738" width="284" height="34" rx="7" fill="#e6e8eb"/>
+    <text class="body" x="26" y="761">Settings</text>
+    <text class="body" x="0" y="761">⚙</text>
+  </g>
+
+  <rect x="315" y="0" width="286" height="819" fill="#f8f9fb"/>
+  <line x1="601" y1="0" x2="601" y2="819" class="line"/>
+  <g transform="translate(339 33)">
+    <text class="body" font-weight="750" x="0" y="10">NexaAct Settings</text>
+    <text class="small muted" x="0" y="32">Manage models, login, app behavior, and</text>
+    <text class="small muted" x="0" y="51">remote control</text>
+
+    <text class="body" x="28" y="99">Accounts</text>
+    <text class="body" x="0" y="99">♙</text>
+    <text class="body" x="28" y="137">General</text>
+    <text class="body" x="0" y="137">⚙</text>
+    <rect x="-10" y="150" width="258" height="34" rx="7" class="selected"/>
+    <text class="body" font-weight="700" x="28" y="173">API Model Settings</text>
+    <text class="body" x="0" y="173">≡</text>
+    <text class="body" x="28" y="211">Third-party Accounts</text>
+    <text class="body" x="0" y="211">⌁</text>
+    <text class="body" x="28" y="249">Remote Control</text>
+    <text class="body" x="0" y="249">⌒</text>
+    <text class="body" x="28" y="287">Version</text>
+    <text class="body" x="0" y="287">ⓘ</text>
+  </g>
+
+  <g transform="translate(649 58)">
+    <text class="title" x="0" y="16">API Model Settings</text>
+    <text class="body muted" x="0" y="44">Model menu, API keys, and account routing</text>
+
+    <rect class="card" x="0" y="96" width="647" height="700" rx="7"/>
+    <rect class="button" x="14" y="112" width="26" height="26" rx="7"/>
+    <text class="body" x="22" y="131">⌄</text>
+    <text class="body" x="50" y="131">☷</text>
+    <text class="body" font-weight="750" x="77" y="131">Model menu</text>
+    <rect class="button" x="527" y="112" width="107" height="30" rx="7"/>
+    <text class="body" x="539" y="133">＋</text>
+    <text class="small" font-weight="750" x="559" y="132">Add model</text>
+
+    <text class="small muted" x="14" y="177">Choose which models appear in new conversations and the composer. Each model uses its bound provider</text>
+    <text class="small muted" x="14" y="196">account or API key.</text>
+    <text class="label" x="14" y="231">Default context window</text>
+    <rect class="card" x="14" y="240" width="280" height="36" rx="5"/>
+    <text class="body" x="26" y="264">284000</text>
+    <rect class="card" x="302" y="240" width="331" height="36" rx="7"/>
+    <text class="body" font-weight="750" x="449" y="264">Save</text>
+
+    <text class="label" x="14" y="301">Visible models</text>
+    <g transform="translate(14 311)">
+      <g>
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">gpt-5.5</text>
+        <text class="small muted" x="49" y="44">OpenAI · 284k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 67)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">claude-opus-4-8</text>
+        <text class="small muted" x="49" y="44">Claude · 1000k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 134)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">gemini-3.5-flash</text>
+        <text class="small muted" x="49" y="44">Gemini · 1048.6k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 201)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">deepseek-v4-pro</text>
+        <text class="small muted" x="49" y="44">DeepSeek · 1000k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 268)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">qwen3.6-plus</text>
+        <text class="small muted" x="49" y="44">Qwen · 284k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 335)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">gpt-5.4</text>
+        <text class="small muted" x="49" y="44">OpenAI · 1050k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+      <g transform="translate(0 402)">
+        <rect class="item" x="0" y="0" width="619" height="58" rx="8"/>
+        <text class="small muted" x="21" y="34">⠿</text>
+        <text class="model" x="49" y="25">gpt-5.3-codex-spark</text>
+        <text class="small muted" x="49" y="44">OpenAI · 128k</text>
+        <rect class="button" x="579" y="14" width="28" height="30" rx="7"/>
+        <text class="body muted" x="586" y="35">...</text>
+      </g>
+    </g>
+  </g>
+</svg>

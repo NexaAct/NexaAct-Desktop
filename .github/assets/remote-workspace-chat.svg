@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280" fill="none">
+  <style>
+    text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #22242a; }
+    .muted { fill: #737780; }
+    .line { stroke: #dde1e6; }
+    .card { fill: #ffffff; stroke: #dde1e6; }
+    .soft { fill: #f2f4f7; }
+    .small { font-size: 22px; }
+    .body { font-size: 30px; }
+    .title { font-size: 36px; font-weight: 750; }
+    .big { font-size: 46px; font-weight: 760; }
+    .hero { font-size: 44px; font-weight: 760; }
+  </style>
+  <rect width="720" height="1280" fill="#ffffff"/>
+  <rect x="0" y="0" width="720" height="76" fill="#eef2f3"/>
+  <text class="big" x="42" y="50">16:48</text>
+  <text class="body" font-weight="700" x="462" y="50">5G</text>
+  <text class="body" font-weight="700" x="535" y="50">5G</text>
+  <rect x="626" y="22" width="58" height="30" rx="7" fill="#111318"/>
+  <text class="small" fill="#fff" font-weight="700" x="642" y="45">83</text>
+  <line x1="0" y1="76" x2="720" y2="76" class="line"/>
+  <text class="body" x="36" y="146">Menu</text>
+  <text class="big" x="142" y="146">NexaAct</text>
+  <text class="big" x="456" y="146">R</text>
+  <text class="big" x="548" y="146">Open</text>
+  <circle cx="660" cy="132" r="38" fill="#f0f2f5" stroke="#d4d8de" stroke-width="2"/>
+  <path d="M638 135c7-18 33-18 40 0 14 1 20 20 7 28h-48c-14-8-8-27 1-28Z" stroke="#53606d" stroke-width="5" fill="none"/>
+  <g transform="translate(36 220)">
+    <rect class="soft" x="0" y="0" width="66" height="66" rx="18"/>
+    <text class="title" x="92" y="28">Remote workspace</text>
+    <text class="body muted" x="92" y="68">NexaAct - gpt-5.5 - OpenAI</text>
+    <rect class="soft" x="448" y="4" width="188" height="62" rx="30"/>
+    <text class="title" x="494" y="46">Authorized</text>
+  </g>
+  <line x1="0" y1="318" x2="720" y2="318" class="line"/>
+  <rect class="card" x="48" y="576" width="624" height="312" rx="32"/>
+  <text class="hero" text-anchor="middle" x="360" y="704">What should NexaAct do in</text>
+  <text class="hero" text-anchor="middle" x="360" y="758">NexaAct?</text>
+  <text class="body muted" text-anchor="middle" x="360" y="820">This chat will be created only after you</text>
+  <text class="body muted" text-anchor="middle" x="360" y="866">send the first message.</text>
+  <text class="big muted" text-anchor="middle" x="360" y="650">[ ]</text>
+  <rect class="card" x="20" y="1080" width="680" height="180" rx="28"/>
+  <text class="big" x="70" y="1154">+</text>
+  <rect x="20" y="1166" width="680" height="70" fill="#f3f4f6"/>
+  <text class="body" x="56" y="1214">Enter a task, question, or code change</text>
+  <rect class="soft" x="46" y="1244" width="160" height="52" rx="18"/>
+  <text class="body muted" x="70" y="1280">gpt-5...</text>
+  <rect x="600" y="1234" width="76" height="76" rx="22" fill="#111827"/>
+  <text class="big" fill="#fff" x="624" y="1288">&gt;</text>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1348" height="832" viewBox="0 0 1348 832" fill="none">
+  <style>
+    text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24262b; }
+    .muted { fill: #5f6670; }
+    .line { stroke: #d9dde3; }
+    .soft { fill: #f4f5f7; }
+    .card { fill: #ffffff; stroke: #d7dce3; }
+    .tiny { font-size: 13px; }
+    .small { font-size: 16px; }
+    .body { font-size: 18px; }
+    .tab { font-size: 18px; font-weight: 700; fill: #5f6670; }
+    .title { font-size: 18px; font-weight: 700; }
+  </style>
+  <rect width="1348" height="832" fill="#fff"/>
+  <rect x="0" y="0" width="312" height="832" fill="#f4f5f7"/>
+  <line x1="312" y1="0" x2="312" y2="832" class="line"/>
+  <g transform="translate(18 30)">
+    <text class="body" x="26" y="18">New chat</text>
+    <text class="body" x="26" y="58">Search</text>
+    <rect x="-8" y="72" width="286" height="34" rx="7" fill="#e7e9ed"/>
+    <text class="body" x="26" y="96">Services</text>
+    <text class="small muted" x="0" y="158" font-weight="700">Projects</text>
+    <text class="small muted" x="24" y="194">NexaAct Web</text>
+    <text class="small muted" x="24" y="236">website</text>
+    <text class="small muted" x="24" y="278">api</text>
+    <text class="small muted" x="24" y="320">code</text>
+    <text class="small muted" x="24" y="362">Nexaact</text>
+    <text class="small muted" x="24" y="404">NexaB</text>
+    <text class="body" x="26" y="767">Settings</text>
+  </g>
+  <g transform="translate(366 28)">
+    <text class="tab" x="12" y="16">Plugins</text>
+    <rect x="86" y="-10" width="66" height="34" rx="8" fill="#f0f2f5"/>
+    <text class="tab" fill="#24262b" x="104" y="16">Skills</text>
+    <text class="tab" x="170" y="16">MCP</text>
+    <rect class="card" x="654" y="-8" width="116" height="30" rx="7"/>
+    <text class="small" font-weight="700" x="686" y="13">Marketplace</text>
+    <rect class="card" x="780" y="-8" width="142" height="30" rx="7"/>
+    <text class="small" font-weight="700" x="812" y="13">Manage services</text>
+    <rect class="card" x="0" y="46" width="584" height="36" rx="8"/>
+    <text class="body muted" x="38" y="70">Search resources</text>
+    <rect class="card" x="594" y="46" width="190" height="36" rx="8"/>
+    <text class="body" x="604" y="70">All sources</text>
+    <rect class="card" x="794" y="46" width="132" height="36" rx="8"/>
+    <text class="small" x="804" y="69">All categories</text>
+    <line x1="0" y1="100" x2="922" y2="100" class="line"/>
+    <text class="body" font-weight="700" x="0" y="144">AI</text>
+    <line x1="0" y1="158" x2="922" y2="158" class="line"/>
+  </g>
+  <g transform="translate(366 208)">
+    <g>
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/algorithmic-art</text><text class="small muted" x="54" y="34">Create generative art using p5.js with seeded random...</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(478 0)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/brand-guidelines</text><text class="small muted" x="54" y="34">Apply Anthropic's brand colors and typography to arti...</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(0 74)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/canvas-design</text><text class="small muted" x="54" y="34">Design visual art in PNG and PDF formats</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(478 74)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/doc-authoring</text><text class="small muted" x="54" y="34">Collaborative document editing and co-authoring</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(0 148)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/docx</text><text class="small muted" x="54" y="34">Create, edit, and analyze Word documents</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(478 148)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/frontend-design</text><text class="small muted" x="54" y="34">Frontend design and UI/UX development tools</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(0 222)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/internal-comms</text><text class="small muted" x="54" y="34">Write status reports, newsletters, and FAQs</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(478 222)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/mcp-builder</text><text class="small muted" x="54" y="34">Create MCP servers to integrate external APIs and ser...</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(0 296)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/pdf</text><text class="small muted" x="54" y="34">Extract text, create PDFs, and handle forms</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+    <g transform="translate(478 296)">
+      <rect class="card" x="0" y="6" width="38" height="38" rx="9"/><text class="body" font-weight="700" x="14" y="31">A</text>
+      <text class="title" x="54" y="14">anthropics/pptx</text><text class="small muted" x="54" y="34">Create, edit, and analyze PowerPoint presentations</text>
+      <rect class="soft" x="412" y="10" width="30" height="30" rx="9"/><text class="body" x="422" y="32">+</text>
+    </g>
+  </g>
+</svg>
